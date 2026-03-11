@@ -1,0 +1,2 @@
+start :-
+  write('Hello World').
